@@ -50,7 +50,9 @@ while(iter.hasNext()){
 
 단, 값이 있다면 True, 없다면 False 값들을 반환한다.
 
-다른 예시를 하나만 더 본다면,
+
+%%%%
+ListIterator 도 있다.
 
 LinkedList<Integer> lnkList = new LinkedList<Integer>();
 lnkList.add(4);
